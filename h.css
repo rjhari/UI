@@ -1,0 +1,23 @@
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    
+  }
+  .navbar{
+    position:absolute;
+    top:0.5%;
+    left:60%;
+    padding: 5px;
+  }
+
+  .foot {
+    float: right;
+        width: 320px;
+        padding: 80px 40px 80px 40px;
+  }
+  .text-block {
+    float: left;
+    width: 320px;
+    padding: 80px 40px 80px 40px;
+  }
